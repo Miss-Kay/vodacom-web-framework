@@ -1,0 +1,611 @@
+{
+  "page": "https://www.vodacom.co.za/shop/",
+  "capturedAt": "2026-09-06",
+  "linkCount": 151,
+  "links": [
+    {
+      "key": "https://careers.vodafone.com/",
+      "text": "Careers"
+    },
+    {
+      "key": "https://help.vodacom.co.za/tobi/home/sales",
+      "text": "Chat to us online"
+    },
+    {
+      "key": "https://mumandbaby.vodacom.co.za/",
+      "text": "Mum & Baby"
+    },
+    {
+      "key": "https://music.vodacom.co.za/",
+      "text": "Vodacom Music"
+    },
+    {
+      "key": "https://playinc.com/za",
+      "text": "Playinc"
+    },
+    {
+      "key": "https://portal.laligapremium.co.za/",
+      "text": "La Liga"
+    },
+    {
+      "key": "https://quizinc.co.za/opt_in",
+      "text": "Quizinc"
+    },
+    {
+      "key": "https://streamy.vodacom.co.za/home/music",
+      "text": "Vodacom Streamy New"
+    },
+    {
+      "key": "https://streamy.vodacom.co.za/home/video",
+      "text": "Vodacom Streamy New"
+    },
+    {
+      "key": "https://twitter.com/Vodacom",
+      "text": ""
+    },
+    {
+      "key": "https://vodacom.com/about-us.php",
+      "text": "About us"
+    },
+    {
+      "key": "https://vodacom.pubhub.studio/",
+      "text": "In-store deals"
+    },
+    {
+      "key": "https://vodacomsoccer.com/",
+      "text": "Vodacom Soccer"
+    },
+    {
+      "key": "https://vodacomworldbookings.vodacom.co.za/",
+      "text": "Vodacom World & Events"
+    },
+    {
+      "key": "https://vodapay.vodacom.co.za/vodapay/personal/home",
+      "text": "VodaPay App"
+    },
+    {
+      "key": "https://vodapay.vodacom.co.za/vodapay/personal/payments",
+      "text": "VodaPay wallet"
+    },
+    {
+      "key": "https://vodapay.vodacom.co.za/vodapay/personal/rewards",
+      "text": "VodaPay Rewards"
+    },
+    {
+      "key": "https://www.facebook.com/Vodacom",
+      "text": ""
+    },
+    {
+      "key": "https://www.onetrust.com/products/cookie-consent/",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/",
+      "text": "Cookies settings"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/appointmentbooking",
+      "text": "Book an appointment"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/digital/login",
+      "text": "Log in"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/esim",
+      "text": "eSIM"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/mobile/bills",
+      "text": "My bill"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/mobile/detailed-balances",
+      "text": "My balances"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/mobile/summary",
+      "text": "Account summary"
+    },
+    {
+      "key": "https://www.vodacom.co.za/cloud/profile/settings",
+      "text": "Manage my account"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/",
+      "text": "Personal"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/100024697?price_type=once-off",
+      "text": "Motorola G37 128GB 5G"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/101014439?price_type=once-off",
+      "text": "Xbox Series S 512GB"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals",
+      "text": "Browse all deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/double-deals",
+      "text": "Double Deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/sim-only-deals",
+      "text": "SIM-only deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals",
+      "text": "Smartphone deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=22400%2C22595+",
+      "text": "Buy now"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=22406",
+      "text": "Buy now"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals/pre-owned-deals",
+      "text": "Pre-owned device deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products",
+      "text": "Products"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?manufacturer=16775&price_type=once-off",
+      "text": "Apple"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off",
+      "text": "Buy once-off"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=16643",
+      "text": "Xiaomi"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=16775",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=17075",
+      "text": "Samsung"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=17240",
+      "text": "HUAWEI"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=17750",
+      "text": "HONOR"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=18638",
+      "text": "OPPO"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&promotion_tag=24276",
+      "text": "Shop now"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/audio",
+      "text": "Audio"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/audio?price_type=once-off",
+      "text": "Audio"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/gaming",
+      "text": "Gaming"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/gaming-smart-home?price_type=once-off",
+      "text": "Gaming & smart home"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/gaming-smart-home/smart-home",
+      "text": "Smart home"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/routers",
+      "text": "Routers"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/routers?price_type=once-off",
+      "text": "Routers"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/smart-home?price_type=once-off",
+      "text": "Smart devices"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/smartphones",
+      "text": "Smartphones"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/smartphones?price_type=once-off",
+      "text": "Browse all products"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/tablets-laptops",
+      "text": "Tablets & laptops"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/tablets-laptops/laptops",
+      "text": "Laptops"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/tablets-laptops/tablets",
+      "text": "Tablets"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/wearable-tech",
+      "text": "Wearable tech"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-products/wearable-tech?price_type=once-off",
+      "text": "Wearable tech"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/apple-iphone-17-pro-256-max?price_type=once-off",
+      "text": "Save up to R1,000"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/apple-watch-ultra3-4?price_type=once-off",
+      "text": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case with Band"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/catalog/product/view/id/8572552/s/samsung-galaxy-watch-9-44mm-lte-black/?price_type=once-off",
+      "text": "Samsung Galaxy Watch 9 44mm (LTE)"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/checkout/cart/index/",
+      "text": "cart 0"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/customer/account/create/",
+      "text": "Register now"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/customer/account/logout",
+      "text": "Log out"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/deal-builder/landing",
+      "text": "Build Your Own Contract New"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/device-fest",
+      "text": "Browse now"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6G09DAAA",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6H10DAAA",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6H10DAAB",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6H12DABE",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6H50DABV",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6H50DACB",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6H54CAAB",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6HB00240",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6HB00269",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6HB00314",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6HD16844",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6HD17812",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6HD20982",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/homeinternet",
+      "text": "5G Home Internet deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/honor-600-12-256gb-5g?price_type=once-off",
+      "text": "Save up to R1,400"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/honor-choice-air-fryer?price_type=once-off",
+      "text": "HONOR Choice Air Fryer"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/honor-choice-t10-black-4-64gb-4g?price_type=once-off",
+      "text": "Save up to R100"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/online-exclusives",
+      "text": "Online Exclusive Deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/samsung-galaxy-a27-b?price_type=once-off",
+      "text": "Save up to R1,000"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/samsung-galaxy-a57-8-256gb-5g?price_type=once-off",
+      "text": "Save up to R400"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/samsung-galaxy-s25fe-blue-8-256gb-5g?price_type=once-off",
+      "text": "Save up to R2,000"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/simonly?cbu_home_quicklink_5_simonly_20%2F08%2F2026=",
+      "text": "SIM only"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/upgrade",
+      "text": "Upgrade"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/fibre/sales/fibre-deals?campaignName=fibre+tv+laptop",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/fibre/sales/leads",
+      "text": "Fibre"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/help/all-faqs-and-troubleshooting",
+      "text": "Frequently asked questions"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/help/help-and-support",
+      "text": "help Help & support"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/help/managing-your-data",
+      "text": "Managing your data"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/help/security-fraud-and-lost-phone",
+      "text": "Lost or stolen devices"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/help/sim-card-puk-and-rica",
+      "text": "SIM & PUK"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/privacy-policy/terms",
+      "text": "Privacy & Access to Information"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/rewards/onyx-welcome",
+      "text": "Onyx Rewards"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/appleservices",
+      "text": "Apple TV"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/convenience-and-security/account-services/secure-net-parental-control",
+      "text": "SecureNet Parental Control"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/convenience-and-security/calling/international-calling",
+      "text": "International calling"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/financial-services/airtime-advance",
+      "text": "Airtime Advance"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/financial-services/cash-advance",
+      "text": "Cash Advance"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/financial-services/vodalend-compare",
+      "text": "Compare VodaLend products"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/financial-services/vodalend-homeloans",
+      "text": "Home Loans"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/financial-services/vodalend-personal-loans",
+      "text": "Personal Loans"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/financial-services/voucher-advance",
+      "text": "Vouchers Advance"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/insurance/device-insurance",
+      "text": "Device Insurance"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/insurance/funeral-cover",
+      "text": "Funeral Cover"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/insurance/health-insurance",
+      "text": "Health services"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/insurance/legal-assist",
+      "text": "Legal Services"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/services/insurance/life-cover",
+      "text": "Life Insurance"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/home-internet/hub",
+      "text": "Home Internet setup guide"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/plans/red-plans",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/plans/red-rewards",
+      "text": "Red Rewards"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/powerflex",
+      "text": "PowerFlex"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/primevideo",
+      "text": "Amazon Prime"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/purpose",
+      "text": "Our purpose"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/store-locator",
+      "text": "location Find a store"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/add-to-bill-music",
+      "text": "All streaming services"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/add-to-bill-video",
+      "text": "All streaming services"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/antivirus",
+      "text": "Norton Antivirus"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/connectu",
+      "text": "ConnectU"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/international-roaming",
+      "text": "International roaming"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/network-maintenance",
+      "text": "Network maintenance"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/repairs",
+      "text": "Repairs"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/specific-needs",
+      "text": "Specific Needs"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/vodabucks",
+      "text": "VodaBucks"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/vodacom-live",
+      "text": "Vodacom Live"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/vodacom-one-number",
+      "text": "OneNumber"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/shopping/v/vodacom-world",
+      "text": "Vodacom World"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/terms/deliveries-and-returns-terms-and-conditions",
+      "text": "Deliveries & returns"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/terms/terms-and-conditions",
+      "text": "Vodacom Terms & Conditions"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/vodapay/manage-your-money/cash-in",
+      "text": "Deposit money"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/vodapay/manage-your-money/cash-out",
+      "text": "Send money"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/vodapay/manage-your-money/virtual-card",
+      "text": "Virtual Card"
+    },
+    {
+      "key": "https://www.vodacom.co.za/vodacom/vodapay/manage-your-money/withdraw",
+      "text": "Withdraw money"
+    },
+    {
+      "key": "https://www.vodacom.com/annual-results.php",
+      "text": "Financial results"
+    },
+    {
+      "key": "https://www.vodacom.com/investor-relations.php",
+      "text": "Investors"
+    },
+    {
+      "key": "https://www.vodacom.com/our-purpose.php",
+      "text": "Corporate responsibilities"
+    },
+    {
+      "key": "https://www.vodacom.com/press-releases.php",
+      "text": "Press & Media"
+    },
+    {
+      "key": "https://www.vodacombusiness.co.za/business/solutions/business-internet",
+      "text": "Business Internet"
+    },
+    {
+      "key": "https://www.vodacombusiness.co.za/business/solutions/financial-services/max",
+      "text": "Point of Sale"
+    },
+    {
+      "key": "https://www.vodacombusiness.co.za/vb/",
+      "text": "Business"
+    },
+    {
+      "key": "https://www.vodacomfantasy.com/login",
+      "text": "Vodacom Fantasy League"
+    },
+    {
+      "key": "https://www.youtube.com/user/VODACOMTV",
+      "text": ""
+    },
+    {
+      "key": "https://wwwqa.vodacom.co.za/shop/all-products/mobile/products?manufacturer=17750",
+      "text": "Browse all HONOR products"
+    }
+  ]
+}

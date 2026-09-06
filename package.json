@@ -1,0 +1,21 @@
+{
+  "name": "vodacom-web-framework",
+  "version": "1.0.0",
+  "description": "Vodacom shop funnel + content integrity framework — Playwright + TypeScript, self-healing locators, CI/CD to AWS",
+  "scripts": {
+    "test": "playwright test --grep-invert @known-defect",
+    "test:funnel": "playwright test --grep @funnel",
+    "test:links": "playwright test tests/shop-link-integrity.spec.ts",
+    "test:content": "playwright test tests/content-integrity.spec.ts",
+    "test:defects": "playwright test --grep @known-defect --pass-with-no-tests",
+    "test:headed": "playwright test --headed --project=chromium --grep-invert @known-defect",
+    "typecheck": "tsc --noEmit",
+    "report": "playwright show-report",
+    "baseline:update": "UPDATE_BASELINE=1 playwright test tests/shop-link-integrity.spec.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.5.0"
+  }
+}
