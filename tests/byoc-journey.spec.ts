@@ -52,9 +52,7 @@ test.describe(`${site.name} — Build Your Own Contract`, () => {
 
       await test.step('Step 3 — the device step offers devices', async () => {
         await builder.assertOnDeviceStep();
-        const offered = await builder.devicesOffered();
-        expect(offered, 'the device step rendered no devices to choose from').toBeGreaterThan(0);
-        console.info(`[FUNNEL] device step offered ${offered} devices`);
+        await builder.assertDevicesOffered();
       });
 
       await test.step(`Step 4 — select the ${journey.device}`, async () => {

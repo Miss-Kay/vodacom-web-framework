@@ -88,6 +88,22 @@ export class DealBuilderPage extends BasePage {
     return this.page.locator('.product-card').count();
   }
 
+  /**
+   * Assert the device step actually offers devices. Same race as the plan
+   * step — see countWhenRendered — so the count is waited for rather than
+   * taken at first paint.
+   */
+  async assertDevicesOffered(minimum = 1): Promise<number> {
+    const offered = await this.countWhenRendered('devices', () => this.devicesOffered());
+    expect(
+      offered,
+      `The device step offered ${offered} devices. A customer cannot start a `
+        + 'contract without one, so the funnel ends here.',
+    ).toBeGreaterThanOrEqual(minimum);
+    console.info(`[FUNNEL] device step offered ${offered} devices`);
+    return offered;
+  }
+
   // ----------------------------------------------------------- navigation
 
   /**
@@ -188,6 +204,41 @@ export class DealBuilderPage extends BasePage {
    * empty text. Counting nodes would report five healthy plans on a screen
    * showing nothing. So a plan counts only if it is visible AND has text.
    */
+  /**
+   * Count something the builder fetches, once it has actually arrived.
+   *
+   * Every step here renders its heading and its step chrome from static
+   * markup, and then fills the cards from a GraphQL round-trip — the config
+   * calls this "a slow SPA: several GraphQL round-trips per step" and gives
+   * it a 180s test timeout for that reason. Counting the instant the heading
+   * becomes visible therefore races the fetch.
+   *
+   * That race is why this suite spent a week reporting an empty funnel that
+   * was not empty. It passed from Johannesburg, next to the origin, and
+   * failed from a GitHub runner far from it — which reads exactly like a
+   * geographic defect in the shop and is really just latency. A zero that
+   * has not been waited for says nothing.
+   *
+   * So a zero is only believed after the deadline. A non-zero count is
+   * returned as soon as it appears, so the healthy path costs nothing.
+   */
+  private async countWhenRendered(
+    label: string,
+    count: () => Promise<number>,
+    timeoutMs = 45_000,
+  ): Promise<number> {
+    const deadline = Date.now() + timeoutMs;
+    let current = await count();
+    while (current === 0 && Date.now() < deadline) {
+      await this.page.waitForTimeout(500);
+      current = await count();
+    }
+    if (current === 0) {
+      console.warn(`[FUNNEL] no ${label} rendered after waiting ${timeoutMs}ms`);
+    }
+    return current;
+  }
+
   async plansOffered(): Promise<number> {
     const cards = this.page.locator('[class*="plan-card"], [class*="planCard"]');
     const total = await cards.count();
@@ -216,9 +267,11 @@ export class DealBuilderPage extends BasePage {
    * test in tests/byoc-journey.spec.ts.
    */
   async assertPlansOffered(minimum: number): Promise<void> {
-    const offered = await this.plansOffered();
+    const offered = await this.countWhenRendered('plans', () => this.plansOffered());
     await test.info().attach('plans-offered.txt', {
-      body: `"Our top picks" rendered ${offered} selectable plan(s); minimum expected ${minimum}.`,
+      body:
+        `"Our top picks" rendered ${offered} selectable plan(s); minimum expected ${minimum}. `
+        + 'Counted after waiting for the step\'s GraphQL fetch, not at first paint.',
       contentType: 'text/plain',
     });
     expect(
