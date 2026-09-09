@@ -1,7 +1,7 @@
 {
   "page": "https://www.vodacom.co.za/shop/",
-  "capturedAt": "2026-09-06",
-  "linkCount": 151,
+  "capturedAt": "2026-09-09",
+  "linkCount": 158,
   "links": [
     {
       "key": "https://careers.vodafone.com/",
@@ -116,20 +116,40 @@
       "text": "Personal"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/100024697?price_type=once-off",
-      "text": "Motorola G37 128GB 5G"
+      "key": "https://www.vodacom.co.za/shop/100021503?price_type=once-off",
+      "text": "Save up to R100"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/101014439?price_type=once-off",
-      "text": "Xbox Series S 512GB"
+      "key": "https://www.vodacom.co.za/shop/100023765?price_type=once-off",
+      "text": "Save up to R2,700"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/13-macbook-neo-a18-pro-8-256gb-ssd?price_type=once-off",
+      "text": "Apple MacBook Neo 13-inch 8/256GB SSD (A18 Pro Chip)"
     },
     {
       "key": "https://www.vodacom.co.za/shop/all-deals",
       "text": "Browse all deals"
     },
     {
+      "key": "https://www.vodacom.co.za/shop/all-deals?monthly_recurring=99-299&price_type=monthly",
+      "text": "Deals under R299 PM"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals?promotion_tag=22400%2C22595",
+      "text": "New Galaxy Z8 Series"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals?promotion_tag=22406",
+      "text": "Shop now"
+    },
+    {
       "key": "https://www.vodacom.co.za/shop/all-deals/double-deals",
       "text": "Double Deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/router-deals",
+      "text": "Home Internet deals"
     },
     {
       "key": "https://www.vodacom.co.za/shop/all-deals/sim-only-deals",
@@ -140,16 +160,24 @@
       "text": "Smartphone deals"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=22400%2C22595+",
-      "text": "Buy now"
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=22400%2C22595",
+      "text": "Shop now"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=22406",
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=23947",
+      "text": "Shop now"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals?promotion_tag=23956",
       "text": "Buy now"
     },
     {
       "key": "https://www.vodacom.co.za/shop/all-deals/smartphone-deals/pre-owned-deals",
       "text": "Pre-owned device deals"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/all-deals/tablet-laptop-deals",
+      "text": "Laptop & Tablets deals"
     },
     {
       "key": "https://www.vodacom.co.za/shop/all-products",
@@ -186,10 +214,6 @@
     {
       "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&manufacturer=18638",
       "text": "OPPO"
-    },
-    {
-      "key": "https://www.vodacom.co.za/shop/all-products?price_type=once-off&promotion_tag=24276",
-      "text": "Shop now"
     },
     {
       "key": "https://www.vodacom.co.za/shop/all-products/audio",
@@ -252,16 +276,8 @@
       "text": "Wearable tech"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/apple-iphone-17-pro-256-max?price_type=once-off",
-      "text": "Save up to R1,000"
-    },
-    {
-      "key": "https://www.vodacom.co.za/shop/apple-watch-ultra3-4?price_type=once-off",
-      "text": "Apple Watch Ultra 3 GPS + Cellular 49mm Titanium Case with Band"
-    },
-    {
-      "key": "https://www.vodacom.co.za/shop/catalog/product/view/id/8572552/s/samsung-galaxy-watch-9-44mm-lte-black/?price_type=once-off",
-      "text": "Samsung Galaxy Watch 9 44mm (LTE)"
+      "key": "https://www.vodacom.co.za/shop/apple-iphone-17-sage?price_type=once-off",
+      "text": "Save up to R700"
     },
     {
       "key": "https://www.vodacom.co.za/shop/checkout/cart/index/",
@@ -281,58 +297,66 @@
     },
     {
       "key": "https://www.vodacom.co.za/shop/device-fest",
-      "text": "Browse now"
+      "text": "September Device Fest"
     },
     {
       "key": "https://www.vodacom.co.za/shop/DV6G09DAAA",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6H10DAAA",
+      "key": "https://www.vodacom.co.za/shop/DV6I07DAAH",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6H10DAAB",
+      "key": "https://www.vodacom.co.za/shop/DV6I10DAAC",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6H12DABE",
+      "key": "https://www.vodacom.co.za/shop/DV6I10DABG",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6H50DABV",
+      "key": "https://www.vodacom.co.za/shop/DV6I10DADT",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6H50DACB",
+      "key": "https://www.vodacom.co.za/shop/DV6I10DADU",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6H54CAAB",
+      "key": "https://www.vodacom.co.za/shop/DV6I10DADV",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6HB00240",
+      "key": "https://www.vodacom.co.za/shop/DV6I10DAEM",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6HB00269",
+      "key": "https://www.vodacom.co.za/shop/DV6I12DAFW",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6HB00314",
+      "key": "https://www.vodacom.co.za/shop/DV6ID04446",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6HD16844",
+      "key": "https://www.vodacom.co.za/shop/DV6ID05584",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6HD17812",
+      "key": "https://www.vodacom.co.za/shop/DV6ID09148",
       "text": ""
     },
     {
-      "key": "https://www.vodacom.co.za/shop/DV6HD20982",
+      "key": "https://www.vodacom.co.za/shop/DV6ID09159",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6ID09174",
+      "text": ""
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/DV6ID09175",
       "text": ""
     },
     {
@@ -344,12 +368,12 @@
       "text": "Save up to R1,400"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/honor-choice-air-fryer?price_type=once-off",
-      "text": "HONOR Choice Air Fryer"
+      "key": "https://www.vodacom.co.za/shop/honor-x6d-4-256gb-5g?price_type=once-off",
+      "text": "HONOR X6d 4/256GB 5G"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/honor-choice-t10-black-4-64gb-4g?price_type=once-off",
-      "text": "Save up to R100"
+      "key": "https://www.vodacom.co.za/shop/motorola-g37-128gb-5g?price_type=once-off",
+      "text": "Motorola G37 128GB 5G"
     },
     {
       "key": "https://www.vodacom.co.za/shop/online-exclusives",
@@ -357,7 +381,11 @@
     },
     {
       "key": "https://www.vodacom.co.za/shop/samsung-galaxy-a27-b?price_type=once-off",
-      "text": "Save up to R1,000"
+      "text": "Save up to R1,200"
+    },
+    {
+      "key": "https://www.vodacom.co.za/shop/samsung-galaxy-a37-6-256gb-5g?price_type=once-off",
+      "text": "Save up to R500"
     },
     {
       "key": "https://www.vodacom.co.za/shop/samsung-galaxy-a57-8-256gb-5g?price_type=once-off",
@@ -365,10 +393,10 @@
     },
     {
       "key": "https://www.vodacom.co.za/shop/samsung-galaxy-s25fe-blue-8-256gb-5g?price_type=once-off",
-      "text": "Save up to R2,000"
+      "text": "Save up to R1,500"
     },
     {
-      "key": "https://www.vodacom.co.za/shop/simonly?cbu_home_quicklink_5_simonly_20%2F08%2F2026=",
+      "key": "https://www.vodacom.co.za/shop/simonly",
       "text": "SIM only"
     },
     {
