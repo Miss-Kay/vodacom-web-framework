@@ -18,7 +18,12 @@ import { site } from '../fixtures/siteProfile';
  * reported and still open gets tagged @known-defect, which `npm test` and CI
  * exclude. A permanently red pipeline hides the next regression, so a known
  * failure is quarantined and re-checked on demand with `npm run test:defects`
- * rather than left to rot the signal. Nothing is quarantined at present.
+ * rather than left to rot the signal.
+ *
+ * Quarantined at present: everything that opens doubleDeal.path, because
+ * /shop/dv6hb00314 now 404s — the checkout-gate test below, and both tests
+ * in packaged-deal.spec.ts. See the note on doubleDeal in
+ * fixtures/testData.ts.
  */
 test.describe(`${site.name} — Build Your Own Contract`, () => {
   for (const journey of contractMatrix) {
@@ -152,7 +157,7 @@ test(`the advancing CTA stays reachable after the accordion is answered @funnel`
  * So the journey walks a real deal to the gate, records what is demanded
  * there, and asserts nothing was filled in.
  */
-test(`checkout asks for identity documents and the suite stops there @funnel @smoke`, async ({
+test(`checkout asks for identity documents and the suite stops there @funnel @smoke @known-defect`, async ({
   page,
 }) => {
   const deal = new DealPage(page);

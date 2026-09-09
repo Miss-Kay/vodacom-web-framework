@@ -77,6 +77,20 @@ export interface PackagedDeal {
   primaryCta: string;
 }
 
+/**
+ * QUARANTINED 2026-09-08 — this deal page is gone.
+ *
+ * /shop/dv6hb00314 returns 404. Confirmed outside Playwright with a plain
+ * browser-shaped request, so the page is genuinely dead rather than the
+ * checker being refused. Every test that opens it is tagged @known-defect
+ * until Vodacom either restores the SKU or pulls the deal from its listing.
+ *
+ * Deliberately NOT repointed at a live deal. Swapping the path would turn
+ * the pipeline green while a promoted deal still 404s for customers, and
+ * this shop has now fixed two other defects this suite reported — the
+ * doubled "SIM only" href and the Motorola G37 id — so keeping it visible
+ * is what gets it fixed. Re-check with: npm run test:defects
+ */
 export const doubleDeal: PackagedDeal = {
   label: 'iPhone 16 + iPhone 15 Double Deal',
   path: '/shop/dv6hb00314?price_type=monthly',
