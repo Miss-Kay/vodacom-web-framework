@@ -44,6 +44,18 @@ jobs:
           # set the BASE_URL repo variable to point CI at a staging environment.
           BASE_URL: ${{ vars.BASE_URL }}
 
+      # Must sit HERE, before the known-defect re-check below: that step runs
+      # Playwright again and overwrites test-results/junit.xml, so a guard
+      # placed after it would judge the wrong run — and would pass happily
+      # while the MAIN suite had skipped everything, which is the exact
+      # false green this guard exists to catch.
+      #
+      # A skip is a pass as far as Playwright's exit code goes, so a run that
+      # skipped every test reports success. See scripts/assert-suite-ran.mjs.
+      - name: Fail if the suite tested nothing
+        if: always()
+        run: node scripts/assert-suite-ran.mjs
+
       # Runs the known live defects on purpose and never fails the build —
       # the log and report say whether Vodacom has fixed them yet.
       - name: Re-check known defects (never fails the build)
